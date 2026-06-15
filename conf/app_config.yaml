@@ -41,4 +41,8 @@ es:
 llm:
   model_name: gpt-5.2-codex
   api_key: <api_key>
+<<<<<<< HEAD
   base_url: https://api.openai-proxy.org/v1
+=======
+  base_url: https://api.openai-proxy.org/v1
+>>>>>>> d5fffa2b8b6a0f689e10f5a924edc13277e4313d
